@@ -7,9 +7,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Header>
-        sfs
-      </Header>
+      <Header />
       BOOK REVIEW
     </div>
   );
