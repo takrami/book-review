@@ -1,0 +1,13 @@
+a {
+  text-decoration: none;
+  color: var(--mainColor);
+}
+
+body {
+  font-family: var(--mainFont);
+}
+
+:root {
+  --mainFont : 'Roboto', sans-serif;
+  --mainWrapper: 1200px;
+}
