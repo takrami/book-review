@@ -1,0 +1,56 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "test",
+      "author": "example",
+      "image": "../../",
+      "highlights": [
+        {
+          "id": 1,
+          "text": "sdldjlfkjdslfkj"
+        },
+        {
+          "id": 2,
+          "text": "sdldjlfkjdslfkj"
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "text": "sdldjlfkjdslfkj"
+        },
+        {
+          "id": 2,
+          "text": "sdldjlfkjdslfkj"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "test2",
+      "author": "example2",
+      "image": "../../",
+      "highlights": [
+        {
+          "id": 1,
+          "text": "fgfdgdf"
+        },
+        {
+          "id": 2,
+          "text": "dfgdfsg"
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "text": "dsgd"
+        },
+        {
+          "id": 2,
+          "text": "dsg"
+        }
+      ]
+    }
+  ]
+}
