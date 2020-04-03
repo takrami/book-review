@@ -1,9 +1,11 @@
 import React from 'react';
 
-const MenuItem = ({ title, author }) => (
-  <div>
-    {title} + {author}
-  </div>
+import { BookItemContainer, BackgroundImageContainer } from './book-item.styles';
+
+const BookItem = ({ title, author, image }) => (
+  <BookItemContainer>
+    <BackgroundImageContainer image={image} />
+  </BookItemContainer>
 );
 
-export default MenuItem;
+export default BookItem;
