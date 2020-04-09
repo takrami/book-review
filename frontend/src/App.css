@@ -1,6 +1,6 @@
 a {
   text-decoration: none;
-  color: var(--mainColor);
+  color: var(--mainTitleColor);
 }
 
 body {
@@ -10,4 +10,6 @@ body {
 :root {
   --mainFont : 'Roboto', sans-serif;
   --mainWrapper: 1200px;
+  --mainColor: #58067e;
+  --mainTitleColor: #3a0253;
 }
